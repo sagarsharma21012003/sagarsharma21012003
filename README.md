@@ -5,17 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
----
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
+
+---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Real time project]**
-- 🌱 I’m learning **[React, Node.js]**
-- 💬 Ask me about **JavaScript,  DSA, Python or anything tech!**
+- 🔭 I’m currently working on **Real-time projects**
+- 🌱 I’m learning **React, Node.js**
+- 💬 Ask me about **JavaScript, DSA, Python or anything tech!**
 - 📫 Reach me at: **sagar.s84236@gmail.com**
-- ⚡ Fun fact: **Behind every fixed bug: music, memes, and mild miracles🎵😄.**
+- ⚡ Fun fact: **Behind every fixed bug: music, memes, and mild miracles 🎵😄**
 
 ---
 
@@ -35,7 +35,7 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" title="To appear on GitHub's language chart, ensure .cpp files are in public repos"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/>
@@ -57,7 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsharma21012003&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ### ✍️ Quote of the Day
 > *“First, solve the problem. Then, write the code.”* – John Johnson
@@ -66,4 +65,3 @@
 
 ### 🙋‍♂️ Want help?
 > Feel free to fork this README and make it yours — or just reach out!
-
