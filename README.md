@@ -51,10 +51,11 @@
 
 ### 📊 GitHub Stats & Streak
 
-<p align="center">
+<p align="center"><center>
   <img src="https://github-readme-stats.vercel.app/api?username=sagarsharma21012003&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsharma21012003&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsharma21012003&layout=compact&theme=radical" alt="Top Languages" />
+</center>
 </p>
 
 ---
