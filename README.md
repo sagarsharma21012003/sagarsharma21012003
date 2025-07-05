@@ -26,7 +26,7 @@
   <a href="https://instagram.com/__aviral__18" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/></a>
   <a href="https://www.hackerrank.com/profile/2497_sagar_23_F" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3628823-3030100.png" width="30"/></a>
   <a href="https://leetcode.com/profile/account/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="30"/></a>
-  <a href="https://app.netlify.com/teams/sagar-s84236/projects" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="30"/></a>
+  <a href="https://app.netlify.com/teams/sagar-s84236/projects" target="_blank"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_netlify_icon_130354.png" width="30"/></a>
 </p>
 
 ---
